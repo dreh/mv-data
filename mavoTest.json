@@ -21,6 +21,11 @@
 	],
 	"comic": [
 		{
+			"title": "Comic Title",
+			"image": "http://iceworld.pnxk.work/images/tiras/2003-07-13-a-bigorna.png",
+			"description": "Add a <em>description</em>"
+		},
+		{
 			"title": "A bigorna",
 			"image": "http://iceworld.pnxk.work/images/tiras/2003-07-13-a-bigorna.png",
 			"description": "<strong>blam!</strong>"
