@@ -7,12 +7,16 @@
 	"flashcard": [
 		{
 			"source": "Comic title",
-			"comic": "http://iceworld.pnxk.work/images/tiras/2018-04-01-free-smoothie-here.png",
-			"translation": "Wazaaaaap"
+			"comic": "http://iceworld.pnxk.work/images/tiras/2003-11-04-relacionamento-2.png",
+			"translation": "Wazaaaaap",
+			"title": "the relationship has sunken",
+			"description": "duh"
 		},
 		{
 			"source": "http://iceworld.pnxk.work/images/tiras/2015-12-17-whatzzz-pt.png",
-			"translation": "ive been burn for the last time!"
+			"translation": "ive been burn for the last time!",
+			"title": "where it went",
+			"description": "i dunno!"
 		}
 	]
 }
