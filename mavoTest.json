@@ -3,5 +3,16 @@
 	"avatar": "http://iceworld.pnxk.work/images/tiras/2003-11-04-relacionamento-2.png",
 	"firstName": "Azul",
 	"lastName": "Rosa",
-	"country": "gb"
+	"country": "gb",
+	"flashcard": [
+		{
+			"source": "Comic title",
+			"comic": "http://iceworld.pnxk.work/images/tiras/2018-04-01-free-smoothie-here.png",
+			"translation": "Wazaaaaap"
+		},
+		{
+			"source": "http://iceworld.pnxk.work/images/tiras/2015-12-17-whatzzz-pt.png",
+			"translation": "ive been burn for the last time!"
+		}
+	]
 }
