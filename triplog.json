@@ -1,0 +1,31 @@
+{
+	"tripTitle": "Iguazu",
+	"collection": [
+		{
+			"postTitle": "Marco 3 fronteiras",
+			"location": "Foz do Iguaçu - Paraná",
+			"text": "Aqui voc&ecirc; consegue ver o rio cruzando as 3 fronteiras (Brasil, Paraguai e Argentina). E de quebra esse por do sol!",
+			"timestamp": "2019-10-19"
+		},
+		{
+			"postTitle": "Foz do Iguaçú",
+			"location": "Paraná - Brasil",
+			"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, vel praesentium consectetur itaque hic at? Sed non quo explicabo quibusdam ad atque eligendi doloremque, labore ullam nesciunt repellat rem qui!",
+			"timestamp": "2014-06-01"
+		}
+	],
+	"post": [
+		{
+			"postTitle": "post 1",
+			"location": "paraguai",
+			"text": "la garantia soy yo",
+			"timestamp": "2019-10-19"
+		},
+		{
+			"postTitle": "foz do iguacu",
+			"location": "brasil",
+			"text": "cataratas do iguacu",
+			"timestamp": "2019-10-26"
+		}
+	]
+}
