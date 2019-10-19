@@ -1,6 +1,12 @@
 {
 	"post": [
 		{
+			"postTitle": "image test",
+			"location": "brasil",
+			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@4101c58e9bd9015da818e6b49b4c7308e32603c1/images/ArquivoExibir.jpeg",
+			"text": "lets see how it goes!"
+		},
+		{
 			"postTitle": "vamos as compras",
 			"location": "Paraguai",
 			"text": "at&eacute; que procurando voc&ecirc; acha coisa legal aqui",
