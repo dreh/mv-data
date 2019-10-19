@@ -5,20 +5,24 @@
 			"location": "brasil",
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@4101c58e9bd9015da818e6b49b4c7308e32603c1/images/ArquivoExibir.jpeg",
 			"text": "lets see how it goes!",
-			"timestamp": "2019-10-22"
+			"timestamp": "2019-10-22",
+			"country": "gb"
 		},
 		{
 			"postTitle": "foz do iguaçú",
 			"location": "paraná - brasil",
 			"text": "venha conhecer as <strong>cataratas</strong> do igua&ccedil;&uacute;!",
-			"timestamp": "2019-10-19"
+			"timestamp": "2019-10-19",
+			"image": "https://via.placeholder.com/400",
+			"country": "gr"
 		},
 		{
 			"postTitle": "vamos as compras",
 			"location": "Paraguai",
 			"text": "at&eacute; que procurando voc&ecirc; acha coisa legal aqui",
 			"timestamp": "2019-10-20",
-			"image": "https://via.placeholder.com/400"
+			"image": "https://via.placeholder.com/400",
+			"country": "gr"
 		}
 	],
 	"tripTitle": "Iguazu y las 3 fronteras"
