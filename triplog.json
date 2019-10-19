@@ -1,5 +1,5 @@
 {
-	"tripTitle": "Iguazu y las 3 fronteras",
+	"tripTitle": "Iguazu",
 	"collection": [
 		{
 			"postTitle": "Marco 3 fronteiras",
@@ -16,10 +16,10 @@
 	],
 	"post": [
 		{
-			"postTitle": "post 3",
+			"postTitle": "post3",
 			"location": "argentina",
-			"text": "puerto iguazu",
-			"timestamp": "2019-11-02"
+			"text": "puerto iguazy",
+			"timestamp": "2019-10-27"
 		},
 		{
 			"postTitle": "post 1",
