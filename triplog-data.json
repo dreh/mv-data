@@ -1,10 +1,17 @@
 {
 	"post": [
 		{
-			"postTitle": "foz do iguazu",
-			"location": "paraná brasil",
-			"text": "lorem ipsum dolor sit amet",
+			"postTitle": "vamos as compras",
+			"location": "Paraguai",
+			"text": "at&eacute; que procurando voc&ecirc; acha coisa legal aqui",
+			"timestamp": "2019-10-20"
+		},
+		{
+			"postTitle": "foz do iguaçú",
+			"location": "paraná - brasil",
+			"text": "venha conhecer as <strong>cataratas</strong> do igua&ccedil;&uacute;!",
 			"timestamp": "2019-10-19"
 		}
-	]
+	],
+	"tripTitle": "Iguazu y las 3 fronteras"
 }
