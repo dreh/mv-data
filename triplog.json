@@ -13,5 +13,13 @@
 			"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, vel praesentium consectetur itaque hic at? Sed non quo explicabo quibusdam ad atque eligendi doloremque, labore ullam nesciunt repellat rem qui!",
 			"timestamp": "2014-06-01"
 		}
+	],
+	"post": [
+		{
+			"postTitle": "Foz do Iguaçú",
+			"location": "Paraná - Brasil",
+			"text": "lorem ipsum dolor sit amet",
+			"timestamp": "2019-10-19"
+		}
 	]
 }
