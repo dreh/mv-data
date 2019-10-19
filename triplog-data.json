@@ -2,16 +2,17 @@
 	"post": [
 		{
 			"image": "https://via.placeholder.com/400",
-			"postTitle": "post 4",
+			"postTitle": "post 5",
 			"location": "brasil",
-			"text": "just a test without changing the pic",
+			"text": "just a test with a default image placeholder. but what if i wanna post text only sometimes?",
 			"timestamp": "2019-10-19"
 		},
 		{
 			"postTitle": "image test",
 			"location": "brasil",
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@4101c58e9bd9015da818e6b49b4c7308e32603c1/images/ArquivoExibir.jpeg",
-			"text": "lets see how it goes!"
+			"text": "lets see how it goes!",
+			"timestamp": "2019-10-22"
 		},
 		{
 			"postTitle": "vamos as compras",
