@@ -1,6 +1,13 @@
 {
 	"post": [
 		{
+			"image": "https://via.placeholder.com/400",
+			"postTitle": "post 4",
+			"location": "brasil",
+			"text": "just a test without changing the pic",
+			"timestamp": "2019-10-19"
+		},
+		{
 			"postTitle": "image test",
 			"location": "brasil",
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@4101c58e9bd9015da818e6b49b4c7308e32603c1/images/ArquivoExibir.jpeg",
