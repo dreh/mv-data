@@ -4,7 +4,7 @@
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@27e662ada73bcbf006a1f3b9c81bdf369736dd7b/images/Frame2.jpg",
 			"postTitle": "White Sand Beach",
 			"location": "Tokelau Island",
-			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<br />\n<ul>\n<li>testing 1</li>\n<li>testing 2</li>\n<li>testing 3</li>\n</ul>",
+			"text": "Sed ut <em>perspiciatis</em> unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, <a title=\"click me\" href=\"https://pnxk.work/triplog/\" target=\"_blank\" rel=\"noopener\">eaque ipsa quae ab illo</a> inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
 			"timestamp": "2019-10-25"
 		},
 		{
