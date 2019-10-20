@@ -1,6 +1,12 @@
 {
 	"post": [
 		{
+			"postTitle": "trying out new things and styles",
+			"location": "Brasil",
+			"text": "Lorem ipsum dolor sit amet:\n<li>testing 1</li>\n<li>testing 2</li>\n<li>testing 3</li>",
+			"timestamp": "2019-10-31"
+		},
+		{
 			"postTitle": "no pic post",
 			"location": "no flags",
 			"text": "Lorem Ipsum<span style=\"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span>",
