@@ -4,14 +4,14 @@
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@27e662ada73bcbf006a1f3b9c81bdf369736dd7b/images/Frame2.jpg",
 			"postTitle": "White Sand Beach",
 			"location": "Tokelau Island",
-			"text": "Lorem ipsum dolor sit amet:<br />\n<li>testing 1</li>\n<li>testing 2</li>\n<li>testing 3</li>",
+			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.:<br />\n<ul>\n<li>testing 1</li>\n<li>testing 2</li>\n<li>testing 3</li>\n</ul>",
 			"timestamp": "2019-10-25"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@f77089566029bbcc4102b03143dd14359feb4fd0/images/tuzki_series.jpg",
 			"postTitle": "enjoy the show",
 			"location": "china",
-			"text": "just a test menz!",
+			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
 			"country": "gl",
 			"timestamp": "2019-10-04"
 		},
@@ -19,21 +19,21 @@
 			"postTitle": "Soft kitty, warm kitty",
 			"location": "brasil",
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@4101c58e9bd9015da818e6b49b4c7308e32603c1/images/ArquivoExibir.jpeg",
-			"text": "little ball of fur",
+			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
 			"timestamp": "2019-10-22",
 			"country": "lo"
 		},
 		{
 			"postTitle": "foz do iguaçú",
 			"location": "paraná - brasil",
-			"text": "venha conhecer as <strong>cataratas</strong> do igua&ccedil;&uacute;!",
+			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
 			"timestamp": "2019-10-19",
 			"country": "gr"
 		},
 		{
 			"postTitle": "vamos as compras",
 			"location": "Paraguai",
-			"text": "at&eacute; que procurando voc&ecirc; acha coisa legal aqui",
+			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
 			"timestamp": "2019-10-20",
 			"image": "https://via.placeholder.com/400",
 			"country": "bi"
