@@ -8,7 +8,7 @@
 			"timestamp": "2019-10-25"
 		},
 		{
-			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@f77089566029bbcc4102b03143dd14359feb4fd0/images/tuzki_series.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@5213a30fa0d7a895a48d92b77827be4e6b15334e/images/tuzki_series-400.jpg",
 			"postTitle": "Enjoy the show",
 			"location": "china",
 			"text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
@@ -39,5 +39,6 @@
 			"country": "bi"
 		}
 	],
-	"tripTitle": "Iguazu y las trés fronteras"
+	"tripTitle": "Iguazu y las trés fronteras",
+	"tripDate": "25 to 30 november 2019"
 }
