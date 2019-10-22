@@ -1,0 +1,17 @@
+{
+	"tripTitle": "Trés fronteras",
+	"tripDate": "25 to 30 november 2019",
+	"post": [
+		{
+			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@c4925e96e25b23e3016af0ba44d8fe48fdc43aee/images/milada-vigerova-pQMM63GE7fo-unsplash.jpg",
+			"postTitle": "Behold the awesomeness!",
+			"location": "Puerto Iguazu",
+			"timestamp": "2019-10-23",
+			"text": [
+				"Esse &eacute; o post em portugu&ecirc;s que vai ser apresentado por default em browers que n&atilde;o forem pt br",
+				null
+			],
+			"textEN": "Now this is the post in english that will be presented to all the other language options not pt"
+		}
+	]
+}
