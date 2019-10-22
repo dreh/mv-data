@@ -3,6 +3,12 @@
 	"tripDate": "25 to 30 november 2019",
 	"post": [
 		{
+			"postTitle": "E lá vamos nós...",
+			"location": "Foz do Iguaçú",
+			"timestamp": "2019-10-23",
+			"textEN": "where did the other go?"
+		},
+		{
 			"image": "https://cdn.jsdelivr.net/gh/dreh/mv-data@c4925e96e25b23e3016af0ba44d8fe48fdc43aee/images/milada-vigerova-pQMM63GE7fo-unsplash.jpg",
 			"postTitle": "Behold the awesomeness!",
 			"location": "Puerto Iguazu",
